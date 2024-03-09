@@ -35,7 +35,7 @@ enum class RemoteButton {
       //% block=C
 	  C = 0x55,
       //% block=D
-	  D = --0x44,
+	  D = 0x56,
       //% block=UP
 	  UP = 0x18,
       //% block=+
